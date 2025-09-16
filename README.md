@@ -17,7 +17,7 @@ When two or more intents align, a transaction is born:
 → Fulfilled intents inspire new ones.
 The cycle never stops. 
 
-6/ Why does this matter?
+ Why does this matter?
 Because Anoma redefines what a market can be.
 Not just finance, but everything:
 
